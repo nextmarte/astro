@@ -1,0 +1,1 @@
+https://balanca.economia.gov.br/balanca/bd/comexstat-bd/ncm/EXP_2023.csv
